@@ -1,6 +1,6 @@
-![Screenshot 2025-03-04 105245](https://github.com/user-attachments/assets/72d799d1-18ac-4994-91b0-c323a8ed2ea5)# Ex-01_DS_Data_Cleansing
-
-
+# Ex-01_DS_Data_Cleansing
+# NAME:SURYA R
+# REG NO: 212223110056
 ## AIM
 To read the given data and perform data cleaning and save the cleaned data to a file. 
 
@@ -37,4 +37,4 @@ Save the Clean data to the file
 
 
 ### RESULT
-
+The given data performed data cleaning and saved the cleaned data file
